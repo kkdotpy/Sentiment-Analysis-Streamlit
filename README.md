@@ -4,7 +4,7 @@ The main objective of this project is to analyze the sentiment and emotion of us
 
 ## Project Overview
 
-I have built an application using Streamlit, a Python library for creating interactive web applications. The application allows users to input text and obtain sentiment and emotion analysis results in real-time.
+I have built an application using Streamlit, a Python library for creating interactive web applications. The application allows users to input text and obtain sentiment analysis results in real-time.
 
 ## Model Description
 
